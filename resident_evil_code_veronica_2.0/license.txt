@@ -1,0 +1,11 @@
+Model Information:
+* title:	Resident evil Code Veronica 2.0
+* source:	https://sketchfab.com/3d-models/resident-evil-code-veronica-20-e4d53542289a4ca0a6c833405f62baa4
+* author:	DPLDS (https://sketchfab.com/diegoplds)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Resident evil Code Veronica 2.0" (https://sketchfab.com/3d-models/resident-evil-code-veronica-20-e4d53542289a4ca0a6c833405f62baa4) by DPLDS (https://sketchfab.com/diegoplds) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
